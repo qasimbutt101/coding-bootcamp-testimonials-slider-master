@@ -1,0 +1,28 @@
+.container{
+    outline: 1px solid red;
+    background-color: lightgreen;
+    height: 60vh;
+    width: 80vw;
+    margin: auto;
+    
+
+
+}
+.pattern-bg{
+    background-size: cover;
+    width: 30%;
+    height: 80%;
+    float: right;
+}
+.pattern-quotes{
+    background-size: cover;
+    margin-bottom: 30%;
+    margin-left: 5%;
+ 
+}
+
+.pattern-curve{
+    background-size: cover;
+    width: 45%;
+    height: 30%;
+}
